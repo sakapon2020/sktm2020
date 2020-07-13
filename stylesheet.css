@@ -2,8 +2,7 @@
   color: #02ccba;
 }
 
-.img {
+.container{
   width: 640px;
   height: 480px;
-  background-position: center;
 }
